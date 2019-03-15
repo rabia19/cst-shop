@@ -1,5 +1,5 @@
-# Final Project 🚀
+# Final Project - ONLINE SHOP 🚀
 ## WEEK 1
-* Organized first team meetup✔
+* Organized first meetup with team members✔
 * Found a potential client✔
-* Possible meeting with a client next week
+* Possible meeting with a client next week for further discussion
