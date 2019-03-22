@@ -4,5 +4,5 @@
 * Found a potential client✔
 * Possible meeting with a client next week for further discussion
 ## WEEK 2
-* Met with our clients and discussed the design and function of the website
-* Agreeed on payment 
+* Met with our clients and discussed the design and function of the website✔ 
+* Agreeed on payment and signed a contract✔
