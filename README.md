@@ -6,5 +6,4 @@
 ## WEEK 2
 * Met with our clients and discussed the design and function of the website✔ 
 * Agreeed on payment and signed a contract✔
-* Divided the project within gruop so that every person has a responsibility
 ## WEEK 3
