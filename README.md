@@ -7,6 +7,6 @@
 * Met with our clients and discussed the design and function of the website✔ 
 * Agreeed on payment and signed a contract✔
 ## WEEK 3
-* Started working on the project
-* The main page's design is finished
+* Started working on the project✔
+* The main page's design is finished✔
 * Need to make backend and finish other pages
