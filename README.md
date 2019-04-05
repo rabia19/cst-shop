@@ -6,7 +6,10 @@
 ## WEEK 2
 * Met with our clients and discussed the design and function of the website✔ 
 * Agreeed on payment and signed a contract✔
+* Organized a second meetup with team member✔
 ## WEEK 3
+* Discussed the work of each members ✔
 * Started working on the project✔
+## WEEK 4
 * The main page's design is finished✔
-* Need to make backend and finish other pages
+* Started making the backend on php and finishing other pages
