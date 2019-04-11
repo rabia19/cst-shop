@@ -16,3 +16,6 @@
 ## WEEK 5
 * Finished the website
 * Met with clients, presented and received payment
+
+Team Name: Ocean's 8
+Team Members: Mukushev Meir, Iolji Rabiya, Dauytzhanova Botakoz, Manatova Diana, Nurgaliev Olzhas, Ansagan Yermakhan, Chegreyev Daniyar,Arslan 
