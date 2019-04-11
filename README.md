@@ -13,3 +13,6 @@
 ## WEEK 4
 * The main page's design is finished✔
 * Started making the backend on php and finishing other pages
+## WEEK 5
+* Finished the website
+* Met with clients, presented and received payment
